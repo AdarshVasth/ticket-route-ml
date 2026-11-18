@@ -1,0 +1,49 @@
+queue,ticket
+account_access,I forgot my password and cannot log in
+account_access,The password reset link expired
+account_access,My login code never reached my email
+account_access,I am locked out after several failed sign in attempts
+account_access,My authentication code is rejected
+account_access,I changed phones and lost my two factor codes
+account_access,The verification email is missing from my inbox
+account_access,I need to recover access to my account
+account_access,The sign in screen keeps asking for my password
+account_access,I lost my recovery code and cannot sign in
+account_access,The login page says my credentials are invalid
+account_access,Please help me unlock my account
+billing,My card was charged twice for the same order
+billing,I need a copy of last month's invoice
+billing,Please refund the duplicate payment
+billing,My subscription price changed on my latest bill
+billing,The payment failed at checkout
+billing,I need to update my billing address
+billing,There is an unexpected charge on my credit card
+billing,Why does the receipt show the wrong amount
+billing,Can I get a refund after cancelling my subscription
+billing,My new card is declined when I try to pay
+billing,My invoice includes tax twice
+billing,I cancelled before renewal but was charged again
+delivery,My package has not arrived yet
+delivery,The tracking number shows no shipping updates
+delivery,The courier delivered my parcel to the wrong address
+delivery,Can I change the delivery address before shipping
+delivery,My order arrived with a damaged box
+delivery,The shipment has been delayed for three days
+delivery,The tracking page says delivered but the parcel is missing
+delivery,What is the estimated delivery date for my order
+delivery,Only one item arrived in the package
+delivery,The courier returned my order to the warehouse
+delivery,My shipping confirmation is missing the tracking number
+delivery,Can I collect my parcel from the pickup point
+product_bug,The app crashes every time I open the dashboard
+product_bug,The export button produces an empty CSV file
+product_bug,The search filters disappear when I reload the page
+product_bug,My saved changes vanish after refresh
+product_bug,The settings screen freezes when I click save
+product_bug,The app shows a blank screen after the update
+product_bug,Upload gets stuck at ninety percent
+product_bug,The delete button does nothing when clicked
+product_bug,The dropdown list overlaps the navigation menu
+product_bug,Search results show the same item three times
+product_bug,The app closes when I attach a photo
+product_bug,The export dialog returns an error instead of downloading

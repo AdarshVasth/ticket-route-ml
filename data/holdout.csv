@@ -1,0 +1,13 @@
+queue,ticket
+account_access,I cannot get past the sign in verification step
+account_access,The recovery email sent me an old password reset link
+account_access,My login is blocked and I lost my two factor device
+billing,Two card charges appear for a single purchase
+billing,I need a corrected invoice before I pay
+billing,Can you refund the amount charged for subscription renewal
+delivery,My parcel is still at the warehouse and tracking stopped
+delivery,The courier marked the package delivered and I never received it
+delivery,Can you change the shipping address for my order
+product_bug,The dashboard freezes whenever I change the search filters
+product_bug,Export is downloading a blank file again
+product_bug,Uploading a photo makes the app crash
